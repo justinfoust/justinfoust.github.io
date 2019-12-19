@@ -1,0 +1,36 @@
+/*
+div .row div{
+    background-color: gainsboro;
+}
+*/
+
+/*
+body div {
+    border: 1px solid black;
+}
+*/
+
+#figCol {
+
+}
+
+h1 {
+    color: var(--yellow)
+}
+
+/*
+img {
+    margin: auto;
+    display: block;
+}*/
+
+.centered {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.figure-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
